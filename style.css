@@ -1,0 +1,11 @@
+body{
+    background-image: url(imagenfj/minecraft-6917341_640.jpg);
+    background-repeat: repeat-y;
+    
+}
+tr.no{
+    background-color: #185a3f;
+}
+tr.si{
+    background-color: #5ba339;
+}
